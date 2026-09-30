@@ -1,16 +1,23 @@
-## Hi there 👋
+# Salut, moi c’est Elyes 👋
 
-<!--
-**Layz0u/Layz0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en **Licence 1 Mathématiques et Intelligence Artificielle** à **Dauphine Tunis**.
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je découvre les mathématiques et l’intelligence artificielle, et j’aime apprendre à résoudre des problèmes avec la programmation.
+
+## Compétences
+
+- 📐 Mathématiques : bases en algèbre et en analyse
+- 💻 Programmation : bases en [Python / autre langage — à compléter]
+- 🤖 Intelligence artificielle : notions en cours d’apprentissage
+- 🧠 Résolution de problèmes et esprit logique
+
+## En ce moment
+
+- J’approfondis mes connaissances en mathématiques et en IA.
+- Je réalise mes premiers projets et exercices de programmation.
+
+## Me contacter
+
+- GitHub : [@TonPseudo](https://github.com/Layz0u)
