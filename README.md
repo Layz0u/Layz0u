@@ -9,7 +9,7 @@ Je découvre les mathématiques et l’intelligence artificielle, et j’aime ap
 ## Compétences
 
 - 📐 Mathématiques : bases en algèbre et en analyse
-- 💻 Programmation : bases en [Python / autre langage — à compléter]
+- 💻 Programmation : bases en Python
 - 🤖 Intelligence artificielle : notions en cours d’apprentissage
 - 🧠 Résolution de problèmes et esprit logique
 
