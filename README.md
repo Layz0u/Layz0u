@@ -20,4 +20,4 @@ Je découvre les mathématiques et l’intelligence artificielle, et j’aime ap
 
 ## Me contacter
 
-- GitHub : [@TonPseudo](https://github.com/Layz0u)
+- GitHub : [@Layz0u](https://github.com/Layz0u)
